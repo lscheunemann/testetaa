@@ -1,0 +1,55 @@
+INSPEÇÃO DE SAÍDA/CAMPO
+
+NS TAA: 123
+Nº OP: 123
+Cliente: 123
+DATA/HORA: 7/4/2022 1:51:42 PM
+
+
+*** PERIFÉRICOS TESTADOS ***
+Web Cam OK
+
+
+*** QUESTIONÁRIO ***
+1 - A apresentação geral do equipamento está satisfatória (pintura, limpeza, etc)?
+R: SIM
+2 - Foi verificado/revisado infraestrutura interna (tomadas, elétrica e lógica)?
+R: SIM
+3 - A versão da firmware do PINPad é igual ou superior a 1.08? (marcar não se o totem não possui)
+R: SIM
+4 - Foi conferida e testada todas as chaves do equipamento?
+R: SIM
+5 - Foi verificado se a bobina está ao alcance do sensor de papel? (válido apenas para SNBC)
+R: SIM
+6 - Todos os componentes da placa mãe foram conferidos (pilha da bios, itens desconectados)?
+R: SIM
+7 - O terminal ligou e desligou pela chave?
+R: SIM
+8 - Foi verificada a integridade do SO (data/hora e drivers da placa)?
+R: SIM
+9 - Todos os cabos estão identificados?
+R: SIM
+10 - A resolução da tela está adequada?
+R: SIM
+
+
+*** OBSERVAÇÕES ***
+
+
+*** PORTAS ***
+
+
+*** INFORMAÇÕES DE INSPEÇÃO ***
+Inspecionado por: 123
+
+
+Ass.:____________________________
+
+Supervisor produção:
+
+
+Ass.:____________________________
+
+
+
+

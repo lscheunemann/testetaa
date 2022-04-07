@@ -1,0 +1,101 @@
+c:\users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\bin\Debug\TesteTAA.exe.config
+c:\users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\bin\Debug\TesteTAA.exe
+c:\users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\bin\Debug\TesteTAA.pdb
+c:\users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_principal.resources
+c:\users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.Properties.Resources.resources
+c:\users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.csproj.GenerateResource.Cache
+c:\users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.exe
+c:\users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.pdb
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_perifericos.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.validacao_impressora.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.validacao_pinpad.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_teste_bal_mag.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.validacao_bal_mag.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_teste_bal_prix.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.validacao_bal_prix.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_teste_leitor_2d.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_teste_leitor_mag.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_teste_touch.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_teste_sinalizacao.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.validacao_sinalizacao.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_teste_webcam.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_teste_som.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.f_questionario.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.validacao_som.resources
+C:\Users\lucas.scheunemann\documents\visual studio 2015\Projects\TesteTAA\TesteTAA\obj\Debug\TesteTAA.csprojResolveAssemblyReference.cache
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\bin\Debug\TesteTAA.exe.config
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.exe
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.pdb
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\bin\Debug\TesteTAA.exe
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\bin\Debug\TesteTAA.pdb
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.csprojResolveAssemblyReference.cache
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_principal.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_perifericos.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_questionario.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_teste_bal_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_teste_bal_prix.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_teste_leitor_2d.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_teste_leitor_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_teste_sinalizacao.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_teste_som.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_teste_touch.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.f_teste_webcam.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.Properties.Resources.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.validacao_bal_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.validacao_bal_prix.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.validacao_impressora.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.validacao_pinpad.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.validacao_sinalizacao.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.validacao_som.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.2\TesteTAA\obj\Debug\TesteTAA.csproj.GenerateResource.Cache
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\bin\Debug\TesteTAA.exe.config
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.exe
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.pdb
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\bin\Debug\TesteTAA.exe
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\bin\Debug\TesteTAA.pdb
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.csprojResolveAssemblyReference.cache
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_principal.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_perifericos.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_questionario.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_teste_bal_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_teste_bal_prix.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_teste_leitor_2d.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_teste_leitor_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_teste_sinalizacao.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_teste_som.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_teste_touch.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.f_teste_webcam.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.Properties.Resources.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.validacao_bal_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.validacao_bal_prix.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.validacao_impressora.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.validacao_pinpad.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.validacao_sinalizacao.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.validacao_som.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 1.3\TesteTAA\obj\Debug\TesteTAA.csproj.GenerateResource.Cache
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\bin\Debug\TesteTAA.exe.config
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.exe
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.pdb
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\bin\Debug\TesteTAA.exe
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\bin\Debug\TesteTAA.pdb
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.csprojResolveAssemblyReference.cache
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_principal.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_cartaomag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_perifericos.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_questionario.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_teste_bal_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_teste_bal_prix.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_teste_leitor_2d.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_teste_leitor_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_teste_sinalizacao.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_teste_som.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_teste_touch.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.f_teste_webcam.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.Properties.Resources.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.validacao_bal_mag.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.validacao_bal_prix.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.validacao_impressora.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.validacao_pinpad.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.validacao_sinalizacao.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.validacao_som.resources
+C:\Users\lucas.scheunemann\Desktop\TesteTAA 2.0\TesteTAA\obj\Debug\TesteTAA.csproj.GenerateResource.Cache
